@@ -6,24 +6,25 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
     src: url('/ibm-ega8.ttf');
 }
 
+/* https://coolors.co/242038-725ac1-fec9f1-5aaa95-8d86c9-cac4ce-f7ece1 */
 :root {
     --text-max-width: 1000px;
-    --background-colour: #000084;
-    --text-colour: #bbbbbb;
+    --background-colour: #242038;
+    --text-colour: #FAE8EB;
     --text-span-colour: #ffffff;
-    --link-colour: #b1f543;
-    --link-hover-colour: #00aaaa;
+    --link-colour: #5aaa95;
+    --link-hover-colour: #725AC1;
     --font-size: 24px;
-    --header-one-colour: #000000;
-    --header-one-background: #00aaaa;
-    --header-two-colour: #e160dc;
-    --header-three-colour: #ffd166;
-    --header-four-colour: #ef476f;
+    --header-one-colour: #242038;
+    --header-one-background: #725AC1;
+    --header-two-colour: #8D86C9;
+    --header-three-colour: #CAC4CE;
+    --header-four-colour: #F7ECE1;
     --header-five-colour: #f5cce8;
     --menu-text-colour: #000000;
-    --menu-background-colour: #bbbbbb;
+    --menu-background-colour: #725AC1;
     --footer-text-colour: #000000;
-    --footer-background-colour: #bbbbbb;
+    --footer-background-colour: #725AC1;
 }
 
 html {
@@ -153,12 +154,12 @@ pre {
     padding-right: var(--font-size);
     overflow-x: scroll;
     background: #1a1a1a;
-    color: #66ff66;
+    color: #5AAA95;
 }
 
 code {
     background: #1a1a1a;
-    color: #66ff66;
+    color: #5AAA95;
 }
 
 table {
