@@ -168,13 +168,13 @@ table {
 }
   
 td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #CAC4CE;
     text-align: left;
     padding: 8px;
 }
   
 tr:nth-child(even) {
-    background-color: #0f0f0f;
+    background-color: #242038;
 }
 
 img {
@@ -183,7 +183,7 @@ img {
     margin:auto;
     width: 80%;
     height: auto;
-    box-shadow: 10px 10px black;
+    box-shadow: 10px 10px #CAC4CE;
 }
 
 footer {
