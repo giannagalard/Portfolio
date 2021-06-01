@@ -17,9 +17,9 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
     --font-size: 24px;
     --header-one-colour: #242038;
     --header-one-background: #725AC1;
-    --header-two-colour: #8D86C9;
-    --header-three-colour: #CAC4CE;
-    --header-four-colour: #F7ECE1;
+    --header-two-colour: #CAC4CE;
+    --header-three-colour: #F7ECE1;
+    --header-four-colour: #f5cce8;
     --header-five-colour: #f5cce8;
     --menu-text-colour: #000000;
     --menu-background-colour: #725AC1;
